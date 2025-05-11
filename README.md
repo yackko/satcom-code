@@ -1,3 +1,8 @@
+# Hobby project to learn the go programming language
+# project under development
+
+
+
 # SatCLI: Secure Satellite Command-Line Interface
 
 **SatCLI** is a professional-grade command-line application, built with Go, designed for the secure management, advanced querying, and interactive viewing of satellite information. It places a strong emphasis on data security, featuring an encrypted local datastore to protect sensitive satellite records at rest.
