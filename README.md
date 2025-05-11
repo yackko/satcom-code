@@ -1,4 +1,4 @@
-# Hobby project to learn the go programming language
+# Hobby project to learn the Go programming language
 # project under development
 
 
